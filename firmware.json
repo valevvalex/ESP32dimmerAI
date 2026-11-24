@@ -1,7 +1,7 @@
 {
-  "version": 7,
+  "version": 8,
   "url": "https://raw.githubusercontent.com/valevvalex/ESP32dimmerAI/main/ESP32DimmerAI.ino.bin",
-  "sha256": "1e1311be9d64be5b625f8b87dbae5b2760bb5db2dccf503a7c6f26d420f93b7b",
+  "sha256": "713c7a3c2b4c2151feb8c1daf88f4da3710d4f5fbbd420fa9c8b36ce6375451d",
   "size": 1193616,
-  "sig": "3045022100a82a033ac9493ba447ef646882212dc0ec3801053d6377bef3ddfbf6fcb03c0d022079270b7d2706a552b387e15a7f0756947fe7304ef599c8827d72390cec67cfda"
+  "sig": "3046022100bf12d92c71ee0a801af9aef08b9ca5ef6fcae13d6aaf34cd522525ce0ac4d5bf022100fd1b9b774eed0c82c2193ee6cdbf881871bcc70246bc9e1433c61fb52e78f885"
 }
