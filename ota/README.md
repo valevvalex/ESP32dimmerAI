@@ -1,1 +1,1 @@
-falove za OTA
+fajlove za OTA
