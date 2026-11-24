@@ -1,7 +1,7 @@
 {
-  "version": 2,
+  "version": 1,
   "url": "https://raw.githubusercontent.com/valevvalex/esp32-dimmer-ota/main/ota/ESP32DimmerAI.ino.bin",
-  "sha256": "b8f861533462dc591f204449b94555e7da319335d3848d683726563dbd7da01a",
-  "size": 1188976,
-  "sig": "3045022100b3f6a300b8e36b5176b585a8da9a1024d3d97a3d9d65e7f881dd6e50ba22e4ed02204301b0843144ef62455de9f09569a9a4e4365c8c8aff74443e282f2d7dc9ac06"
+  "sha256": "c99d8a1e2a69d1e9cfa42a8f061260ca385ebbc767abeb6a41fe9d8c6f052ffe",
+  "size": 1190816,
+  "sig": "304502210099001c1088cc313304d6e94ba1975d3b3f2c0cc3108eb2f29fdeed3e4c2dc0e90220594cc18a79eb2b6852a362b61e517fe23f261c68a8af2dc27d751f96a626a4d7"
 }
